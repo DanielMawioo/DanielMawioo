@@ -43,11 +43,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python       10 hrs 8 mins   █████████████▓░░░░░░░░░░░   54.62 % 
-Node         4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.45 % 
-React        3 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
