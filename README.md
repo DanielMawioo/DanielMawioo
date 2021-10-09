@@ -5,7 +5,7 @@
 <a href="https://twitter.com/danielmawioo254">
   <img align="left" alt="Daniel Mawioo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/danielmawioo/">
+<a href="https://www.linkedin.com/in/daniel-mawioo/">
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31lmdmblx2tsratbjmbu2tcr3i2i">
