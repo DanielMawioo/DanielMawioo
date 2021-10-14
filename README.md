@@ -43,25 +43,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python       10 hrs 8 mins   █████████████▓░░░░░░░░░░░   54.62 % 
-Node         4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.45 % 
-React        3 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript   1 hr 22 mins    ████████████████▓░░░░░░░░   66.15 % 
+Markdown     34 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/danielmawioo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,943 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
