@@ -28,7 +28,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help; 
 
 
-**languages and tools:**  
+**### 🛠 Tech Stack:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-1.png?fit=602%2C338&ssl=1" ></code>
@@ -41,6 +41,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"></code>
+<code> <img height="20" src="https://www.cloudsavvyit.com/p/uploads/2021/04/075c8694.jpeg?width=1198&trim=1,1&bg-color=000&pad=1,1" ></code>
+<code> <img height="20" src="https://pbs.twimg.com/profile_images/1351700750993223681/NNJK6vzE_400x400.jpg" ></code>
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -61,7 +65,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DanielMawioo&show_icons=true&theme=gotham" alt="danielmawioo" />
 
-### 🛠 Tech Stack
+
 
 **Languages:**
 <p>
