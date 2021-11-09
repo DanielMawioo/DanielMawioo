@@ -14,6 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmawioo.danielmawioo)
 
+
 <br />
 
 hi, i'm [Daniel Mawioo](http://daniel-mawioo.herokuapp.com/), a passionate full stack web developer and a freelance software engineer from Nairobi,Kenya[🇰🇪]. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -26,6 +27,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:mawioodaniel43@gmail.com) :)
 - 🤙 call on +254758578816.
 - 💬 ask me about anything, i am happy to help; 
+- I also manage these repos [Ader-API](https://github.com/ader-api)-- an open banking API Saas.
 
 
 **### 🛠 Tech Stack:**  
