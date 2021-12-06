@@ -52,7 +52,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 hrs 16 mins   ████████████████████████▓   99.10 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
 
