@@ -52,7 +52,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 15 mins    █████████████████████████   100.00 % 
+Python     1 hr 35 mins    ████████████████████░░░░░   79.88 % 
+Markdown   24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 ```
 <!--END_SECTION:waka-->
 
