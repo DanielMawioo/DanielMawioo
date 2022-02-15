@@ -52,6 +52,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
+Total: 6 hrs 40 mins
+
 HTML         4 hrs 28 mins   ████████████████▓░░░░░░░░   67.05 % 
 CSS          1 hr 48 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.07 % 
 JavaScript   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
