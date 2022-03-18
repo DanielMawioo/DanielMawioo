@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/daniel-mawioo/">
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31lmdmblx2tsratbjmbu2tcr3i2i">
-  <img align="left" alt="Daniel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmawioo.danielmawioo)
 
