@@ -51,10 +51,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 40 mins   █████████████████████▒░░░   84.81 %
-Bash         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-CSS          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JavaScript   1 hr 50 mins    ██████████████████░░░░░░░   72.34 %
+CSS          19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Bash         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
